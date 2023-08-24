@@ -1,0 +1,21 @@
+.App {
+  font-family:cursive;
+  color: blue;
+  text-align: center;
+  
+}
+.pictures{
+  margin-left: 3.5%;
+  padding:20px;
+  display: flex;
+  align-content: center;
+  gap: 35px;
+  flex-wrap: wrap;
+}
+img{
+width: 200px;
+
+}
+h1{
+  font-size: 50px;
+}
